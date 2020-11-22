@@ -1,0 +1,21 @@
+# Referenced at /Users/olu-johnsonoluwatosin/Downloads/xmassong/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:22
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at /Users/olu-johnsonoluwatosin/Downloads/xmassong/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:49
+-keep class androidx.media.session.MediaButtonReceiver { <init>(); }
+# Referenced at /Users/olu-johnsonoluwatosin/Downloads/xmassong/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:48
+-keep class com.github.florent37.assets_audio_player.notification.NotificationActionReceiver { <init>(); }
+# Referenced at /Users/olu-johnsonoluwatosin/Downloads/xmassong/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:55
+-keep class com.github.florent37.assets_audio_player.notification.NotificationService { <init>(); }
+# Referenced at /Users/olu-johnsonoluwatosin/Downloads/xmassong/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:27
+-keep class com.xmassong.MainActivity { <init>(); }
+# Referenced at /Users/olu-johnsonoluwatosin/Downloads/xmassong/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:22
+-keep class io.flutter.app.FlutterApplication { <init>(); }
+# Referenced at /Users/olu-johnsonoluwatosin/.gradle/caches/transforms-2/files-2.1/8cd99cd3642dbc1ce35999ffa72967a5/exoplayer-ui-2.11.4/res/layout/exo_simple_player_view.xml:18
+-keep class com.google.android.exoplayer2.ui.AspectRatioFrameLayout { <init>(...); }
+
+# Referenced at /Users/olu-johnsonoluwatosin/.gradle/caches/transforms-2/files-2.1/8cd99cd3642dbc1ce35999ffa72967a5/exoplayer-ui-2.11.4/res/layout/exo_simple_player_view.xml:35
+-keep class com.google.android.exoplayer2.ui.SubtitleView { <init>(...); }
+
+# Referenced at /Users/olu-johnsonoluwatosin/.gradle/caches/transforms-2/files-2.1/8cd99cd3642dbc1ce35999ffa72967a5/exoplayer-ui-2.11.4/res/layout/exo_track_selection_dialog.xml:20
+-keep class com.google.android.exoplayer2.ui.TrackSelectionView { <init>(...); }
+

@@ -1,0 +1,4 @@
+#Sat Nov 21 00:52:16 AST 2020
+base.0=/Users/olu-johnsonoluwatosin/Downloads/xmassong/build/app/intermediates/transforms/r8/release/0/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
